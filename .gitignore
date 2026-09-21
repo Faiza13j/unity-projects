@@ -16,5 +16,8 @@
 MemoryCaptures/
 Recordings/
 
+# Generated lightmaps
+[Ll]ightmap[ss]/
+
 .DS_Store
 Thumbs.db
